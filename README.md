@@ -24,7 +24,7 @@ Proyek ini dibuat untuk menampilkan menu seperti kopi, makanan ringan, dan minum
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/RanCafe.git
+git clone https://github.com/Rafigibran/RanCafe.git
 cd RanCafe
 
 # Install Dependensi
