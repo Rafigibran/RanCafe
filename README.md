@@ -9,16 +9,14 @@ Proyek ini dibuat untuk menampilkan menu seperti kopi, makanan ringan, dan minum
 
 - 🍰 **Daftar Menu Kafe** — Menampilkan menu beserta harga dan deskripsi.
 - 📱 **Responsif** — Tampilan optimal di perangkat desktop maupun mobile.
-- 🎨 **UI Modern** — Menggunakan Tailwind CSS untuk tampilan yang bersih dan elegan.
-- 🌙 **Mode Terang & Gelap (opsional)** — Dapat ditambahkan sesuai preferensi pengguna.
-
+- 🎨 **UI Modern** — Tampilan yang bersih dan elegan.
 ---
 
 ## 🧰 Teknologi yang Digunakan
 
 - ⚛️ [React.js](https://react.dev/)
 - 🟦 [TypeScript](https://www.typescriptlang.org/)
-- ⚡ [Vite](https://vitejs.dev/) — untuk build dan pengembangan yang cepat
+- ⚡ [Vite](https://vitejs.dev/)
 
 ---
 
